@@ -64,6 +64,7 @@ if __name__ == "__main__":
             "sympy",
             "monty",
             "pymatgen",
+            "mp_api",
         ],
         extras_require=extras_require,
         classifiers=[
